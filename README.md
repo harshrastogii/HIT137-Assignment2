@@ -16,7 +16,7 @@ This repository contains the solutions for the HIT137 Group Assignment 2. The as
 ## How to Run the Programs
 ### Question 1: Encrypt/Decrypt Text
 1. Place the `raw_text.txt` file in the root directory.
-2. Run the `Encryption.py`script.
+2. Run the `p1.py`script.
 3. Encrypted text will be saved in `encrypted_text.txt`.
 4. Decrypted text will be saved in `decrypted_text.txt`.
 5. Decryption verification will be displayed on the console.
